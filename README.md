@@ -1,5 +1,5 @@
 # Frontend-Starter
-Startup files for every Frontend developer
+Startup files for Frontend developer (Windows version)
 
 ## Description
 Place your files in `src/` directory:
