@@ -1,13 +1,13 @@
-Frontend-Starter
-================
+# Frontend-Starter
+***
 Startup files for every Frontend developer
 
-Description
+## Description
 ----------------
-Place your files in src/ directory.
+Place your files in `src/` directory:
 
-File type | Corresponding dir
+Files type | Corresponding dir
 ------ | -------
-HTML files | `src/`
-CSS files | `src/css/`
+HTML | `src/`
+CSS | `src/css/`
 JavaScript | `src/js/`
