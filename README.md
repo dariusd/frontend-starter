@@ -1,3 +1,3 @@
 Frontend-Starter
 ================
-Startup files for Frontend developer to work with
+Startup files for every Frontend developer
